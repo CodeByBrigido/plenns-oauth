@@ -1,4 +1,4 @@
-:HL["/plenns-oauth/_next/static/chunks/1zdg920gn3fu5.css","style"]
+:HL["/plenns-oauth/_next/static/chunks/1hgiy2miw1qc5.css","style"]
 :HL["/plenns-oauth/_next/static/chunks/28hq6_hp8jvnz.css","style"]
 :HL["/plenns-oauth/_next/static/media/cb4b92673aedbbad-s.p.0-95eo-012xnf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/plenns-oauth/_next/static/media/d0894cd0614db15e-s.p.2d9e_tvweuz-y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -6,4 +6,4 @@
 3:[["children",{"s":{"n":"slug","t":"d","k":"barbershops","s":[]},"h":100,"c":"$Q4"}]]
 2:[["children",{"s":"for","h":104,"c":"$Q3"}]]
 1:[["children",{"s":"(marketing)","h":104,"c":"$Q2"}]]
-0:{"b":"8EI4pLt-3jS8RxBrt0s0a","t":{"t":{"s":"","h":88,"c":"$Q1"}}}
+0:{"b":"iA7NmgICiQCTI38BeFjCB","t":{"t":{"s":"","h":88,"c":"$Q1"}}}
