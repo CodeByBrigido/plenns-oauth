@@ -1,9 +1,9 @@
-:HL["/plenns-oauth/_next/static/chunks/3s2o479cf8dmq.css","style"]
-:HL["/plenns-oauth/_next/static/chunks/1pmj75sico8oh.css","style"]
+:HL["/plenns-oauth/_next/static/chunks/17jn_dzkblycp.css","style"]
+:HL["/plenns-oauth/_next/static/chunks/01klyu01_mirk.css","style"]
 :HL["/plenns-oauth/_next/static/media/cb4b92673aedbbad-s.p.0-95eo-012xnf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/plenns-oauth/_next/static/media/d0894cd0614db15e-s.p.2d9e_tvweuz-y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 4:[["children",{"s":"__PAGE__","h":160}]]
 3:[["children",{"s":{"n":"slug","t":"d","k":"consultants","s":[]},"h":100,"c":"$Q4"}]]
 2:[["children",{"s":"for","h":104,"c":"$Q3"}]]
 1:[["children",{"s":"(marketing)","h":104,"c":"$Q2"}]]
-0:{"b":"jYzX8yKVYWQ65TeRni_XR","t":{"t":{"s":"","h":88,"c":"$Q1"}}}
+0:{"b":"AKUGJvhoQ_y00RGcK3SWc","t":{"t":{"s":"","h":88,"c":"$Q1"}}}
