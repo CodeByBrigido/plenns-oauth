@@ -1,8 +1,8 @@
-:HL["/plenns-oauth/_next/static/chunks/2twy9fpa3mo4w.css","style"]
+:HL["/plenns-oauth/_next/static/chunks/2ebtg5zn-yyie.css","style"]
 :HL["/plenns-oauth/_next/static/chunks/1eunpxpevg3kp.css","style"]
 :HL["/plenns-oauth/_next/static/media/cb4b92673aedbbad-s.p.0-95eo-012xnf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/plenns-oauth/_next/static/media/d0894cd0614db15e-s.p.2d9e_tvweuz-y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":"features","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"(marketing)","h":96,"c":"$Q2"}]]
-0:{"b":"dzHjxB7B7-2WZB9waidgE","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"1d6rxSn8Vo_JEHtVNAxdo","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
