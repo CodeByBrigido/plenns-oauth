@@ -1,9 +1,9 @@
-:HL["/plenns-oauth/_next/static/chunks/31b-h3ot7bh1h.css","style"]
-:HL["/plenns-oauth/_next/static/chunks/1eunpxpevg3kp.css","style"]
-:HL["/plenns-oauth/_next/static/media/cb4b92673aedbbad-s.p.0-95eo-012xnf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/plenns-oauth/_next/static/media/d0894cd0614db15e-s.p.2d9e_tvweuz-y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/31b-h3ot7bh1h.css","style"]
+:HL["/_next/static/chunks/1eunpxpevg3kp.css","style"]
+:HL["/_next/static/media/cb4b92673aedbbad-s.p.0-95eo-012xnf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d0894cd0614db15e-s.p.2d9e_tvweuz-y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 4:[["children",{"s":"__PAGE__","h":160}]]
 3:[["children",{"s":{"n":"slug","t":"d","k":"service-providers","s":[]},"h":100,"c":"$Q4"}]]
 2:[["children",{"s":"for","h":104,"c":"$Q3"}]]
 1:[["children",{"s":"(marketing)","h":104,"c":"$Q2"}]]
-0:{"b":"1QZlM2slLY4EoClv46r80","t":{"t":{"s":"","h":88,"c":"$Q1"}}}
+0:{"b":"QMEL3cy8YNTeNfaLac6NP","t":{"t":{"s":"","h":88,"c":"$Q1"}}}
